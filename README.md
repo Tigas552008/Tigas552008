@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Tigas552008/Tigas552008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ Tigas552008 ⚡
 
-Here are some ideas to get you started:
+<h2>SASUKE UCHIHA</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./sasuke.gif" width="500" />
+
+<h3>🔥 Sharingan Activated 🔥</h3>
+
+</div>
+
+---
+
+### 🖤 About Me
+- ⚡ Anime lover
+- 🔥 Sasuke fan
+- 💻 Learning programming
