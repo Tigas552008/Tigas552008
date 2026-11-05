@@ -3,8 +3,10 @@
 # ⚡ Tigas552008 ⚡
 
 <h2>SASUKE UCHIHA</h2>
+<p>
+  <img src="Gif_sasuke.gif" width="500" />
+</p>
 
-<img src="Gif_sasuke.gif" width="500" />
 
 <h3>🔥 Sharingan Activated 🔥</h3>
 
