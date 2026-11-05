@@ -4,7 +4,7 @@
 
 <h2>SASUKE UCHIHA</h2>
 
-<img src="./sasuke.gif" width="500" />
+<img src="./Gif_sasuke.gif" width="500" />
 
 <h3>🔥 Sharingan Activated 🔥</h3>
 
