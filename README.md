@@ -1,8 +1,5 @@
 <div align="center">
-  <p>
-    <img src="./Gif_sasuke.gif" width="500" alt="Sasuke GIF">
-  </p>
-
-
+  <img src="./jo-jo-pose.gif" width="500" alt="JoJo GIF">
+</div>
 
 
